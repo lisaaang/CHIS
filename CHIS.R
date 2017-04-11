@@ -1,5 +1,4 @@
-#Script for a function called mosaicGG(data, X, FILL) that takes 3 arguments
-#and produces a mosaic plot where FILL is described by X
+#Script for a function called mosaicGG(data, X, FILL) that takes 3 arguments and produces a mosaic plot where FILL is described by X
 
 # Load all packages
 library(ggplot2)
